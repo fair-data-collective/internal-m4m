@@ -7,16 +7,16 @@ PREFIX,xsd,http://www.w3.org/2001/XMLSchema#
 PREFIX,skos,http://www.w3.org/2004/02/skos/core#
 PREFIX,wikidata,https://www.wikidata.org/wiki/
 dct:title,Beer ontology
-skos:prefLable
-dct:description
-dct:creator
-dct:rights,https://spdx.org/licenses/CC-BY-4.0
+skos:prefLable,Beer ontology
+dct:description,Qualitative and quantitative variables describing beer
+dct:creator,https://www.linkedin.com/in/kristina-tomicic-6bb443108/
+dct:rights,https://spdx.org/licenses/CC0-1.0
 pav:version,0.1.0
-pav:createdOn,2021-06-14T11:16+02:00
-pav:lastUpdatedOn,2021-06-14T11:16+02:00
+pav:createdOn,2021-08-23T18:13+02:00
+pav:lastUpdatedOn,2021-08-23T18:13+02:00
 
 
 Identifier,skos:prefLabel@en,"skos:altLabel(separator="","")",skos:definition@en,"dct:source(separator="","")","skos:broader(separator="","")","skos:closeMatch(separator="","")","skos:exactMatch(separator="","")","skos:broadMatch(separator="","")","skos:narrowMatch(separator="","")","skos:relatedMatch(separator="","")",owl:deprecated^^xsd:boolean,dct:isReplacedBy,skos:editorialNote@en,"dct:creator(separator="","")","dct:contributor(separator="","")"
 beer-onto:Deprecated,Deprecated,,This is a set of controlled terms which are deprecated.,,,, 
-beer-onto:
-beer-onto:
+beer-onto:alc_percentage,alc_percentage,,Percentage of alcohol in a unit of a beer
+beer-onto:beer_color,beer_color,,Color shade of a certain beer.
