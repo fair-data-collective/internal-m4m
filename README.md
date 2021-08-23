@@ -1,11 +1,11 @@
-[![CI](https://github.com/fair-data-collective/zonmw-generic-vocabulary/workflows/Sheet2RDF/badge.svg)](https://github.com/fair-data-collective/zonmw-generic-vocabulary/actions?query=workflow%3ASheet2RDF)
+[![CI](https://github.com/fair-data-collective/internal-m4m/workflows/Sheet2RDF/badge.svg)](https://github.com/fair-data-collective/internal-m4m/actions?query=workflow%3ASheet2RDF)
 
-# [ZonMw Generic Controlled Vocabulary](http://purl.org/zonmw/generic)
-Controlled vocabularies allow an accurate and controlled approach in describing physical and digital assets (e.g., data). One of such controlled vocabulary is **ZonMw Generic Controlled Vocabulary**. This controlled vocabulary is a result of series of [Metadata 4 Machine (M4M) Workshops](https://www.go-fair.org/zonmw-clusters-m4m-workshop-dates/) that run from October 2020 to July 2021 under Dutch COVID19 program, which is funded by ZonMw. 
+# [Stanford Intern Beer Ontology](http://purl.org/m4m/beer-ontology/)
+Controlled vocabularies allow an accurate and controlled approach in describing physical and digital assets (e.g., data). One of such controlled vocabulary is **Beer Ontology**. This controlled vocabulary is a result of internal Metadata 4 Machine (M4M) Workshop provided to the Stanford intern. 
 
 `sheet2rdf` and `OntoStack`, developed by [FAIR Data Collective](https://dk.linkedin.com/company/fair-data-collective), are used to build and serve **ZonMw Generic Controlled Vocabulary**, while [PURL](https://archive.org/services/purl/) is used to persist identifiers for the vocabulary terms and properties:
 
-   http://purl.org/zonmw/generic
+   http://purl.org/m4m/beer-ontology/
 
 
 # Tooling
