@@ -9,7 +9,6 @@ PREFIX,unit,http://qudt.org/vocab/unit/,"Prefix for QUDT Vocabulary of Units whi
 Metadata about vocabulary
 
 dct:title,INCENTIVE Project Variables,Title of the vocabulary
-skos:prefLabel,incentive-vars,"Prefer label of the vocabulary, usually short name"
 dct:description,Quantitative and qualitative and quantitative variables describing ...,Description of the controlled vocabulary
 dct:creator,https://orcid.org/0000-0002-9381-9693,An ORCID ID of the vocabulary creator
 dct:rights,https://spdx.org/licenses/CC0-1.0,License under which the vocabulary is provided
@@ -18,7 +17,7 @@ pav:createdOn,2021-08-23T18:13+02:00,Date when vocabulary was initially created
 pav:lastUpdatedOn,2021-08-24T09:33+02:00,Date of the last vocabulary update
 Definition of terms and missing properties
 
-Identifier,skos:prefLabel@en,pav:version,"skos:altLabel(separator="","")",skos:definition@en,"dct:source(separator="","")","skos:broader(separator="","")","skos:exactMatch(separator="","")","skos:closeMatch(separator="","")",skos:editorialNote@en,"dct:creator(separator="","")","dct:contributor(separator="","")"
+Identifier,skos:prefLabel@en,qudt:unit,"skos:altLabel(separator="","")",skos:definition@en,"dct:source(separator="","")","skos:broader(separator="","")","skos:exactMatch(separator="","")","skos:closeMatch(separator="","")",skos:editorialNote@en,"dct:creator(separator="","")","dct:contributor(separator="","")"
 incentive-vars:AtmosphericParameter,Atmospheric Parameter,,,This is a parent concept containing controlled terms representing to the atmospheric variables.,,, 
 incentive-vars:wind_speed,wind_speed,unit:M-PER-SEC,,,,incentive-vars:AtmosphericParameter,,,,https://orcid.org/0000-0002-9381-9693
 incentive-vars:
